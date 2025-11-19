@@ -27,9 +27,10 @@
   height: 105px;
 }
 
-.adress {
+.address {
   margin: 0;
   padding: 0;
+  font-style: normal;
   line-height: 24.3px;
 }
 
@@ -104,14 +105,12 @@
 .cover__description-text {
   font-size: 22px;
   text-transform: uppercase;
-  word-spacing: 15px;
   align-self: center;
   line-height: 28px;
   word-spacing: 18px;
 }
 
 .bet-button {
-  padding: 0;
   background-color: transparent;
   color: inherit;
   font-size: 22px;
